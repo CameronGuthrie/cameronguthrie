@@ -27,23 +27,13 @@ I'm Cameron.
 
 ## ⭐ Some projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cameronguthrie&repo=LBG-API)](https://github.com/CameronGuthrie/LBG-API)
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cameronguthrie&repo=To-Do-List)](https://github.com/CameronGuthrie/To-Do-List)
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CreatePresentationSchedule&repo=createpresentationschedule.github.io)](https://github.com/CreatePresentationSchedule/createpresentationschedule.github.io)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SettlementNameGenerator&repo=SettlementNameGenerator.github.io)](https://github.com/SettlementNameGenerator/SettlementNameGenerator.github.io)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HexGridGenerator&repo=HexGridGenerator.github.io)](https://github.com/HexGridGenerator/HexGridGenerator.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cameronguthrie&repo=LBG-API)](https://github.com/CameronGuthrie/LBG-API) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cameronguthrie&repo=To-Do-List)](https://github.com/CameronGuthrie/To-Do-List) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CreatePresentationSchedule&repo=createpresentationschedule.github.io)](https://github.com/CreatePresentationSchedule/createpresentationschedule.github.io) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SettlementNameGenerator&repo=SettlementNameGenerator.github.io)](https://github.com/SettlementNameGenerator/SettlementNameGenerator.github.io) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HexGridGenerator&repo=HexGridGenerator.github.io)](https://github.com/HexGridGenerator/HexGridGenerator.github.io)
 
 ---
 
 <div align="center">
 
-Connect with me on [<img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" width="12%" style="!important; margin-bottom:-0.19em !important" />][1]
+Connect with me on <span > [<img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" width="70" />][1] </span>
 
 [1]: https://www.linkedin.com/in/guthrie-cameron
 
